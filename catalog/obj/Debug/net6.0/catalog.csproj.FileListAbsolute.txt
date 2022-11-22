@@ -572,3 +572,13 @@ C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\obj\De
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\obj\Debug\net6.0\catalog.pdb
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\obj\Debug\net6.0\catalog.genruntimeconfig.cache
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\obj\Debug\net6.0\ref\catalog.dll
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\web.config
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\catalog.deps.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\catalog.runtimeconfig.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\publish\web.config
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\publish\appsettings.Development.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\publish\appsettings.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\publish\catalog.deps.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\bin\Debug\net6.0\publish\publish\catalog.runtimeconfig.json

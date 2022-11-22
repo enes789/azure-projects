@@ -1,6 +1,16 @@
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\catalog.exe
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\publish\web.config
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\web.config
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\appsettings.Development.json
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\appsettings.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\appsettings.Development.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\appsettings.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\catalog.deps.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\catalog.runtimeconfig.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\publish\appsettings.Development.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\publish\appsettings.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\publish\catalog.deps.json
+C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\publish\publish\catalog.runtimeconfig.json
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\catalog.dll
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\catalog.runtimeconfig.json
 C:\Users\aedem\OneDrive\Masaüstü\D\DevOps\AZURE\Projects\ReadIt\catalog\publish\catalog.pdb
