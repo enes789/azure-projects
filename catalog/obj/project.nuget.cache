@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lGjyY6ndDcC8lko1jIsinem13NA40Sl8/mI0C7XKAMzWZqs/WItAfF1lyUF3CsutcgpTp6XP2ZxVvW9h4S7Tng==",
+  "dgSpecHash": "6/TL0h1c7RGDkhMndQsiVBGbrfyMPRcTLCLlh3ZiuaPMf4o4FIoo0QqjK4U/nFXHkvUL4uxFcBfyMeC2dQ6VcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\Projects\\ReadIt\\catalog\\catalog.csproj",
+  "projectFilePath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\GitHub\\azure-projects\\catalog\\catalog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aedem\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\aedem\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

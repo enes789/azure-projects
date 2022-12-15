@@ -11260,11 +11260,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\Projects\\ReadIt\\catalog\\catalog.csproj",
+      "projectUniqueName": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\GitHub\\azure-projects\\catalog\\catalog.csproj",
       "projectName": "catalog",
-      "projectPath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\Projects\\ReadIt\\catalog\\catalog.csproj",
+      "projectPath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\GitHub\\azure-projects\\catalog\\catalog.csproj",
       "packagesPath": "C:\\Users\\aedem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\Projects\\ReadIt\\catalog\\obj\\",
+      "outputPath": "C:\\Users\\aedem\\OneDrive\\Masaüstü\\D\\DevOps\\AZURE\\GitHub\\azure-projects\\catalog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aedem\\AppData\\Roaming\\NuGet\\NuGet.Config"
